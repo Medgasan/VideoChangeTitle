@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VideoChangeTitle": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\(F)\\PelisYSeries\\Series\\Anne\\ParaLaTele\""
+    }
+  }
+}
